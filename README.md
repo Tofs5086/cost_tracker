@@ -1,6 +1,4 @@
----
 
-```
 # Azure Cost Tracker with C#
 
 This project demonstrates how to create a basic cost tracker that fetches daily Azure spending data using C# and displays it in a console table. Additionally, it includes an example of implementing interactive authentication using MSAL.NET (Microsoft Authentication Library for .NET).
@@ -261,6 +259,4 @@ When you run the application:
 1. A browser window will open, prompting the user to sign in.
 2. After successful authentication, the access token will be used to call the Microsoft Graph API.
 3. The API response (e.g., user profile data) will be displayed in the console.
-
----
 
